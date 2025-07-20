@@ -24,7 +24,7 @@ Built with **Unity 3D**, this project aims to recreate the fast-paced, team-base
   - Approach and hold a key to collect ingredients.
   - Use special one-time tools: butterfly net, magic shovel, essence wand.
 - **Deliveries**:
-
+  - Deliver the potion to the right house in the village, be the driver
 ---
 
 ## Preparation Stations
