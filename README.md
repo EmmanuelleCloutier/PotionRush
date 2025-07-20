@@ -23,6 +23,7 @@ Built with **Unity 3D**, this project aims to recreate the fast-paced, team-base
 - **Harvesting system**:
   - Approach and hold a key to collect ingredients.
   - Use special one-time tools: butterfly net, magic shovel, essence wand.
+- **Deliveries**:
 
 ---
 
