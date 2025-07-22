@@ -13,7 +13,7 @@ Built with **Unity 3D**, this project aims to recreate the fast-paced, team-base
   - Pick up and drop objects.
   - Interact with stations (gathering, mixing, heating, enchanting).
   - Quick item transfers between players for better efficiency.
-
+  
 ---
 
 ## Exploration & Ingredient Gathering
